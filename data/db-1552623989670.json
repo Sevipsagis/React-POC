@@ -1,0 +1,117 @@
+{
+  "products": [
+    {
+      "id": "P001",
+      "productName": "Salad",
+      "unitPrice": "120",
+      "thumbnail": "/images/product/1.jpg"
+    },
+    {
+      "id": "P002",
+      "productName": "Fried Chicken",
+      "unitPrice": "90",
+      "thumbnail": "/images/product/2.jpg"
+    },
+    {
+      "id": "P003",
+      "productName": "Bing Soo",
+      "unitPrice": "200",
+      "thumbnail": "/images/product/3.jpg"
+    },
+    {
+      "id": "P004",
+      "productName": "French Fries",
+      "unitPrice": "140",
+      "thumbnail": "/images/product/4.jpg"
+    },
+    {
+      "id": "P005",
+      "productName": "Cake",
+      "unitPrice": "200",
+      "thumbnail": "/images/product/5.jpg"
+    },
+    {
+      "id": "P006",
+      "productName": "Coffee",
+      "unitPrice": "140",
+      "thumbnail": "/images/product/6.jpg"
+    }
+  ],
+  "orders": [
+    {
+      "orderedDate": "2019-02-22T10:12:44.113Z",
+      "totalPrice": 230,
+      "orders": [
+        {
+          "product": {
+            "id": "P004",
+            "productName": "French Fries",
+            "unitPrice": "140",
+            "thumbnail": "/images/product/4.jpg"
+          },
+          "quantity": 1
+        },
+        {
+          "product": {
+            "id": "P002",
+            "productName": "Fried Chicken",
+            "unitPrice": "90",
+            "thumbnail": "/images/product/2.jpg"
+          },
+          "quantity": 1
+        }
+      ],
+      "id": 2
+    },
+    {
+      "orderedDate": "2019-03-14T23:53:51.698Z",
+      "totalPrice": 210,
+      "orders": [
+        {
+          "product": {
+            "id": "P001",
+            "productName": "Salad",
+            "unitPrice": "120",
+            "thumbnail": "/images/product/1.jpg"
+          },
+          "quantity": 1
+        },
+        {
+          "product": {
+            "id": "P002",
+            "productName": "Fried Chicken",
+            "unitPrice": "90",
+            "thumbnail": "/images/product/2.jpg"
+          },
+          "quantity": 1
+        }
+      ],
+      "id": 3
+    },
+    {
+      "orderedDate": "2019-03-14T23:53:51.698Z",
+      "totalPrice": 210,
+      "orders": [
+        {
+          "product": {
+            "id": "P001",
+            "productName": "Salad",
+            "unitPrice": "120",
+            "thumbnail": "/images/product/1.jpg"
+          },
+          "quantity": 1
+        },
+        {
+          "product": {
+            "id": "P002",
+            "productName": "Fried Chicken",
+            "unitPrice": "90",
+            "thumbnail": "/images/product/2.jpg"
+          },
+          "quantity": 1
+        }
+      ],
+      "id": 3
+    }
+  ]
+}

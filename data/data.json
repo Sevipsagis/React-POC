@@ -1,0 +1,47 @@
+{
+  "products": [
+    {
+      "id": "P001",
+      "productName": "Salad",
+      "unitPrice": "120",
+      "thumbnail": "/images/product/1.jpg"
+    },
+    {
+      "id": "P002",
+      "productName": "Fried Chicken",
+      "unitPrice": "90",
+      "thumbnail": "/images/product/2.jpg"
+    },
+    {
+      "id": "P003",
+      "productName": "Bing Soo",
+      "unitPrice": "200",
+      "thumbnail": "/images/product/3.jpg"
+    },
+    {
+      "id": "P004",
+      "productName": "French Fries",
+      "unitPrice": "140",
+      "thumbnail": "/images/product/4.jpg"
+    },
+    {
+      "id": "P005",
+      "productName": "Cake",
+      "unitPrice": "200",
+      "thumbnail": "/images/product/5.jpg"
+    },
+    {
+      "id": "P006",
+      "productName": "Coffee",
+      "unitPrice": "140",
+      "thumbnail": "/images/product/6.jpg"
+    },
+    {
+      "productName": "Fried Chicken (test)",
+      "unitPrice": "180000",
+      "thumbnail": "/images/product/2.jpg",
+      "id": "nsbzKFs"
+    }
+  ],
+  "orders": []
+}
